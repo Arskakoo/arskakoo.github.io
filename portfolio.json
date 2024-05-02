@@ -1,0 +1,68 @@
+{
+  "title": "Koodiprojektit",
+  "projects": [
+    {
+      "Name": "Karhut",
+      "description": "Karhut on futuristinen autokauppa, josta pystyy tilaamaan monta erilaista futuristista autoa. Autokauppa on luotu reactin sekä tailwindiä käyttäen. Sivulla on myös käytetty valmiita ui komponentteja sekä iconeita.",
+      "tools": "React, Tailwind",
+      "img": "./img/karhut.png",
+      "link": "https://github.com/Arskakoo/karhut",
+      "demo": "https://arskakoo.github.io/karhut/",
+      "date": "19.2.2024"
+    },
+    {
+      "Name": "Icon Copy",
+      "description": "Google iconien on luotu helpottamaan iconien valinnassa sekä niiden kopioimisessa. Sivustolla näet kaikki iconit ja voit valita haluamasi klikkaamalla sitä. Se kopioituu automaattisesti leikepöydälle ja saat ilmoituksen minkä iconin olet kopioinut.",
+      "img": "./img/iconcopy.png",
+      "tools": "React, Tailwind",
+      "link": "https://github.com/Arskakoo/iconcopy",
+      "demo": "https://arskakoo.github.io/iconcopy/",
+      "date": "20.2.2024"
+    },
+    {
+      "Name": "Shelly pörssisähkö",
+      "description": "Shelly 3 Pro:hon kehitetty pörssisähkönhintaan mukautuva skripti. Reagoi pörssisähkönhintaan sulkien että avaten releitä. Skriptissä on javascriptiä sekä espurinoa joka on muokattu toimimaan shelly laitteiden kanssa.",
+      "img": "./img/shelly.png",
+      "tools": "JavaScript, Espurino",
+      "link": "https://github.com/Saow/Shelly3Pro-porssisahko",
+      "demo": "#",
+      "date": "20.2.2024"
+    },
+    {
+      "Name": "Verkkotaikurit",
+      "description": "PHP:llä toteuttettu verkkokauppa johon mySql lauseet hakevat tuotteet tietokannasta sekä lähettää tilaukset tietokantaan. Sivustoa on esimerkki tuotteita joita voi tilata tai ottaa yhteyttä yritykseen lomakkeella. ",
+      "img": "./img/verkkotaikurit.png",
+      "tools": "PHP, MySql",
+      "link": "#",
+      "demo": "https://verkkotaikurit.kaiaar22.treok.io",
+      "date": "31.10.2023"
+    },
+    {
+      "Name": "Quick Finger",
+      "description": "Javascriptillä tehty näppäimistön painikkeiden painamis peli minkä avulla voi oppia kymmensormijärjestelmän.",
+      "img": "./img/quickfinger.png",
+      "tools": "Javascript, CSS",
+      "link": "https://github.com/Arskakoo/quickfinger",
+      "demo": "https://arskakoo.github.io/quickfinger/",
+      "date": "15.1.2024"
+    },
+    {
+      "Name": "Wolbbe",
+      "description": "Wolbbe on pörssisähkön hinnan kerronta sovellus. Se näyttää tämän hetken hinnan sekä alapuolella saman päivän sekä huomisen hinnat jos hinnat ovat tulleet. Wolbbe on hieman kesken käytännöllisyyden takia.",
+      "img": "./img/Wolbbe.png",
+      "tools": "React, Tailwind",
+      "link": "https://github.com/Arskakoo/Wolbbe",
+      "demo": "https://arskakoo.github.io/Wolbbe/",
+      "date": "8.4.2024"
+    },
+    {
+      "Name": "Lisää tulossa",
+      "description": "Ei tiedä mitä on tulossa, mutta varmasti jotai upeaa ja mahtavaa.",
+      "img": "./img/lisaa.png",
+      "tools": "???",
+      "link": "#",
+      "demo": "#",
+      "date": "??.??.????"
+    }
+  ]
+}
