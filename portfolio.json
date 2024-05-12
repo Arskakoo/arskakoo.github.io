@@ -47,12 +47,12 @@
       "date": "15.1.2024"
     },
     {
-      "Name": "Wolbbe",
-      "description": "Wolbbe on pörssisähkön hinnan kerronta sovellus. Se näyttää tämän hetken hinnan sekä alapuolella saman päivän sekä huomisen hinnat jos hinnat ovat tulleet. Wolbbe on hieman kesken käytännöllisyyden takia.",
+      "Name": "Nore",
+      "description": "Nore on pörssisähkön hinnan kerronta sovellus. Se näyttää saatavilla olevat hinnat sekä alapuolella päivän hinnat kaaviona.",
       "img": "./img/Wolbbe.png",
       "tools": "React, Tailwind",
-      "link": "https://github.com/Arskakoo/Wolbbe",
-      "demo": "https://arskakoo.github.io/Wolbbe/",
+      "link": "https://github.com/Arskakoo/Nore",
+      "demo": "https://arskakoo.github.io/Nore/",
       "date": "8.4.2024"
     },
     {
