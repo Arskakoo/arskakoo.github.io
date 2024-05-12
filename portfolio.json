@@ -49,7 +49,7 @@
     {
       "Name": "Nore",
       "description": "Nore on pörssisähkön hinnan kerronta sovellus. Se näyttää saatavilla olevat hinnat sekä alapuolella päivän hinnat kaaviona.",
-      "img": "./img/Wolbbe.png",
+      "img": "./img/nore.png",
       "tools": "React, Tailwind",
       "link": "https://github.com/Arskakoo/Nore",
       "demo": "https://arskakoo.github.io/Nore/",
