@@ -3,6 +3,7 @@
   "projects": [
     {
       "Name": "Karhut",
+      "stars": "3",
       "description": "Karhut on futuristinen autokauppa, josta pystyy tilaamaan monta erilaista futuristista autoa. Autokauppa on luotu reactin sekä tailwindiä käyttäen. Sivulla on myös käytetty valmiita ui komponentteja sekä iconeita.",
       "tools": "React, Tailwind",
       "img": "./img/karhut.png",
@@ -12,6 +13,7 @@
     },
     {
       "Name": "Icon Copy",
+      "stars": "2",
       "description": "Google iconien on luotu helpottamaan iconien valinnassa sekä niiden kopioimisessa. Sivustolla näet kaikki iconit ja voit valita haluamasi klikkaamalla sitä. Se kopioituu automaattisesti leikepöydälle ja saat ilmoituksen minkä iconin olet kopioinut.",
       "img": "./img/iconcopy.png",
       "tools": "React, Tailwind",
@@ -21,6 +23,7 @@
     },
     {
       "Name": "Shelly pörssisähkö",
+      "stars": "5",
       "description": "Shelly 3 Pro:hon kehitetty pörssisähkönhintaan mukautuva skripti. Reagoi pörssisähkönhintaan sulkien että avaten releitä. Skriptissä on javascriptiä sekä espurinoa joka on muokattu toimimaan shelly laitteiden kanssa.",
       "img": "./img/shelly.png",
       "tools": "JavaScript, Espurino",
@@ -30,6 +33,7 @@
     },
     {
       "Name": "Verkkotaikurit",
+      "stars": "4",
       "description": "PHP:llä toteuttettu verkkokauppa johon mySql lauseet hakevat tuotteet tietokannasta sekä lähettää tilaukset tietokantaan. Sivustoa on esimerkki tuotteita joita voi tilata tai ottaa yhteyttä yritykseen lomakkeella. ",
       "img": "./img/verkkotaikurit.png",
       "tools": "PHP, MySql",
@@ -39,6 +43,7 @@
     },
     {
       "Name": "Quick Finger",
+      "stars": "2",
       "description": "Javascriptillä tehty näppäimistön painikkeiden painamis peli minkä avulla voi oppia kymmensormijärjestelmän.",
       "img": "./img/quickfinger.png",
       "tools": "Javascript, CSS",
@@ -48,21 +53,13 @@
     },
     {
       "Name": "Nore",
-      "description": "Nore on pörssisähkön hinnan kerronta sovellus. Se näyttää saatavilla olevat hinnat sekä alapuolella päivän hinnat kaaviona.",
+      "stars": "5",
+      "description": "Nore on pörssisähkönhinnan ilmoitus sovellus. Näet päivän sähkönhinnan kaaviona sekä listana. Sovellus kertoo myös päivän ylimmän, alimman sekä keskiarvohinnan.",
       "img": "./img/nore.png",
       "tools": "React, Tailwind",
       "link": "https://github.com/Arskakoo/Nore",
       "demo": "https://arskakoo.github.io/Nore/",
-      "date": "8.4.2024"
-    },
-    {
-      "Name": "Lisää tulossa",
-      "description": "Ei tiedä mitä on tulossa, mutta varmasti jotai upeaa ja mahtavaa.",
-      "img": "./img/lisaa.png",
-      "tools": "???",
-      "link": "#",
-      "demo": "#",
-      "date": "??.??.????"
+      "date": "13.5.2024"
     }
   ]
 }
