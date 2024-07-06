@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "Glide",
-    "about": "Glide on frisbeegolffareille tarkoitettu sovellus jolla helpoitetaan pelitilanteen tarkistusta.",
+    "about": "Glide on frisbeegolffareille tarkoitettu PWA-sovellus jolla helpoitetaan pelitilanteen tarkistusta.",
     "tools": "React, Tailwind, Ui-kirjasto",
     "demo": "https://arskakoo.github.io/Glideapp/",
     "github": "https://github.com/Arskakoo/Glideapp"
