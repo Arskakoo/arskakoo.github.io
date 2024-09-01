@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Sulake",
+    "description": "Sulake on pörssisähkön hinnan kerronta PWA-sovellus.",
+    "tools": "React, Tailwind, Api, Ui-kirjasto",
+    "link": "https://github.com/Arskakoo/sulakeapp",
+    "demo": "https://arskakoo.github.io/sulakeapp/",
+    "date": "6.6.2024"
+  },
+  {
+    "Name": "Donitsi",
+    "description": "Three.js testailu kameroiden ja valojen avulla.",
+    "tools": "Three.js",
+    "link": "https://github.com/Arskakoo/donitsi",
+    "demo": "https://arskakoo.github.io/donitsi/",
+    "date": "23.5.2024"
+  },
+  {
+    "Name": "Karhut",
+    "description": "Futuristinen autokauppa, josta pystyy tilaamaan monta erilaista futuristista autoa.",
+    "tools": "React, Tailwind",
+    "link": "https://github.com/Arskakoo/karhut",
+    "demo": "https://arskakoo.github.io/karhut/",
+    "date": "19.2.2024"
+  },
+  {
+    "Name": "Shelly pörssisähkö",
+    "description": "Shelly 3 Pro:hon kehitetty pörssisähkönhintaan mukautuva skripti. Reagoi pörssisähkönhintaan sulkien että avaten releitä.",
+    "tools": "JavaScript, Espurino",
+    "link": "https://github.com/Saow/Shelly3Pro-porssisahko",
+    "demo": "#",
+    "date": "20.2.2024"
+  },
+  {
+    "Name": "Verkkotaikurit",
+    "description": "PHP:llä toteuttettu verkkokauppa johon mySql lauseet hakevat databasesta tuotteet sekä lähettää tilaukset menevät databaseen.",
+    "tools": "PHP, MySql",
+    "link": "#",
+    "demo": "https://verkkotaikurit.kaiaar22.treok.io",
+    "date": "31.10.2023"
+  }
+]
