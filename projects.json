@@ -8,20 +8,12 @@
     "date": "6.6.2024"
   },
   {
-    "Name": "Donitsi",
-    "description": "Three.js testailu kameroiden ja valojen avulla.",
-    "tools": "Three.js",
-    "link": "https://github.com/Arskakoo/donitsi",
-    "demo": "https://arskakoo.github.io/donitsi/",
-    "date": "23.5.2024"
-  },
-  {
-    "Name": "Karhut",
-    "description": "Futuristinen autokauppa, josta pystyy tilaamaan monta erilaista futuristista autoa.",
-    "tools": "React, Tailwind",
-    "link": "https://github.com/Arskakoo/karhut",
-    "demo": "https://arskakoo.github.io/karhut/",
-    "date": "19.2.2024"
+    "Name": "Avaruuspeli",
+    "description": "Unityllä sekä c# toteutettu avaruuspeli missä tarkoituksena on tuhota vastustajat ennenkuin he osuvat koti planeettaasi.",
+    "tools": "C#, Unity",
+    "link": "https://github.com/Arskakoo/Avaruuspeli",
+    "demo": "https://arskakoo.github.io/Avaruuspeli/",
+    "date": "6.9.2024"
   },
   {
     "Name": "Shelly pörssisähkö",
@@ -32,11 +24,19 @@
     "date": "20.2.2024"
   },
   {
-    "Name": "Verkkotaikurit",
-    "description": "PHP:llä toteuttettu verkkokauppa johon mySql lauseet hakevat databasesta tuotteet sekä lähettää tilaukset menevät databaseen.",
-    "tools": "PHP, MySql",
-    "link": "#",
-    "demo": "https://verkkotaikurit.kaiaar22.treok.io",
-    "date": "31.10.2023"
+    "Name": "Donitsi",
+    "description": "Three.js:llä toteutettu pyörivä donitisi. Three.js:llä lisättyt valot, pyörimisanimaatio sekä kamerankulma.",
+    "tools": "Three.js",
+    "link": "https://github.com/Arskakoo/donitsi",
+    "demo": "https://arskakoo.github.io/donitsi/",
+    "date": "23.5.2024"
+  },
+  {
+    "Name": "Glide",
+    "description": "Glide on frisbeegolffareille tarkoitettu sovellus jolla voi helposti tarkistaa peli kulku.",
+    "tools": "React, Tailwind, UI-kirjasto",
+    "link": "https://github.com/Arskakoo/Glideapp",
+    "demo": "https://arskakoo.github.io/Glideapp/",
+    "date": "25.6.2024"
   }
 ]
