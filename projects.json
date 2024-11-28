@@ -1,5 +1,13 @@
 [
   {
+    "Name": "CarparkPy",
+    "description": "Carparkpy on parkkipaikkojen löytämiseen ja tilastointiin tehty sovellus joka kertoo montako ruutua on parkkipaikalla vapana tai varattuna. Reposta löydät paremmin tietoja.",
+    "tools": "React, Tailwind, Api, Ui-kirjasto, Python, YOLO",
+    "link": "https://github.com/Arskakoo/carparkpy-app",
+    "demo": "https://carparkpy.vercel.app",
+    "date": "26.11.2024"
+  },
+  {
     "Name": "Sulake",
     "description": "Sulake on pörssisähkön hinnan kerronta PWA-sovellus.",
     "tools": "React, Tailwind, Api, Ui-kirjasto",
