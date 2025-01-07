@@ -11,8 +11,8 @@
     "Name": "Sulake",
     "description": "Sulake on pörssisähkön hinnan kerronta PWA-sovellus.",
     "tools": "React, Tailwind, Api, Ui-kirjasto",
-    "link": "https://github.com/Arskakoo/sulakeapp",
-    "demo": "https://arskakoo.github.io/sulakeapp/",
+    "link": "https://github.com/Arskakoo/Sulakeapp",
+    "demo": "https://arskakoo.github.io/Sulakeapp/",
     "date": "6.6.2024"
   },
   {
