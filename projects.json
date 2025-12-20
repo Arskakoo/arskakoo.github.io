@@ -46,5 +46,13 @@
     "link": "https://github.com/Arskakoo/Glideapp",
     "demo": "https://arskakoo.github.io/Glideapp/",
     "date": "25.6.2024"
+  },
+  {
+    "Name": "Testi",
+    "description": "Json päivitys testi",
+    "tools": "React, Tailwind, UI-kirjasto",
+    "link": "https://github.com/Arskakoo/Glideapp",
+    "demo": "https://arskakoo.github.io/Glideapp/",
+    "date": "25.6.2024"
   }
 ]
