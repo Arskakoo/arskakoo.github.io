@@ -9326,6 +9326,10 @@ const Hf = Ra(Bf),
               }),
               h.jsx("p", {
                 className: "bg-gray-300/30 px-2 py-0.5 rounded",
+                children: "SSH",
+              }),
+              h.jsx("p", {
+                className: "bg-gray-300/30 px-2 py-0.5 rounded",
                 children: "Docker",
               }),
               h.jsx("p", {
